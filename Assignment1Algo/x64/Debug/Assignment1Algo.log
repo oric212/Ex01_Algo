@@ -1,0 +1,3 @@
+﻿  GameInfo.cpp
+D:\Cs\Algorithms\Ex01\Assignment1Algo\GameInfo.cpp(50,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment1Algo.vcxproj -> D:\Cs\Algorithms\Ex01\Assignment1Algo\x64\Debug\Assignment1Algo.exe
