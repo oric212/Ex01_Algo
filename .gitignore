@@ -1,8 +1,25 @@
-# Ignore binaries
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.pdb
+*.idb
+*.ipch
+*.tlog/
+
+# Ignore build outputs
+x64/Debug/
+x64/Release/
 *.exe
-*.dll
-*.o
 *.obj
+*.o
+*.ilk
+*.log
 *.out
 *.class
 *.bin
+
+# Ignore other generated files
+*.cache
+*.DS_Store
