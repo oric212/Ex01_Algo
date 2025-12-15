@@ -1,25 +1,19 @@
-# Ignore Visual Studio temporary files
+# Visual Studio folders
 .vs/
 *.user
 *.suo
 *.VC.db
-*.pdb
-*.idb
 *.ipch
 *.tlog/
 
-# Ignore build outputs
+# Build output
 x64/Debug/
 x64/Release/
 *.exe
 *.obj
 *.o
+*.pdb
 *.ilk
-*.log
-*.out
-*.class
-*.bin
 
-# Ignore other generated files
-*.cache
+# Optional
 *.DS_Store

@@ -1,3 +1,7 @@
 ﻿  GameInfo.cpp
 D:\Cs\Algorithms\Ex01\Assignment1Algo\GameInfo.cpp(50,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+D:\Cs\Algorithms\Ex01\Assignment1Algo\main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Cs\Algorithms\Ex01\Assignment1Algo\main.cpp(6,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   Assignment1Algo.vcxproj -> D:\Cs\Algorithms\Ex01\Assignment1Algo\x64\Debug\Assignment1Algo.exe
